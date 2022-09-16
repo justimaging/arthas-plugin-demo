@@ -84,6 +84,11 @@
             <version>2.2.0</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.taobao.arthas</groupId>
+            <artifactId>arthas-spring-boot-starter</artifactId>
+            <version>3.6.6</version>
+        </dependency>
     </dependencies>
 
     <build>
